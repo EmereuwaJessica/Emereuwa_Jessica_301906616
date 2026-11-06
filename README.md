@@ -1,7 +1,13 @@
-# Jessica Emereuwa — MIT 8103
+# E-commerce and Online Shopping Management
 
-Student ID: 301906616
+Jessica Emereuwa · Student ID 301906616
 
-E-commerce and Online Shopping Management
+The portfolio uses fictional records for E-commerce and Online Shopping Management.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](Emereuwa_Jessica_301906616_FinalSummary.md) · [PDF](Emereuwa_Jessica_301906616_FinalSummary.pdf)
