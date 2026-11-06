@@ -9,8 +9,8 @@ My case study is E-commerce and Online Shopping Management. I designed the datab
 ## Portfolio 1: Database Design and Modelling
 
 I organised the relational design into 4 tables. Primary keys identify records, foreign keys preserve the links, and checks enforce the stated business rules. A product's unit price must be greater than zero. The normalisation examples show the sample data at 1NF, 2NF and 3NF. All 32 deliberately invalid inserts were rejected without changing the valid sample rows.
-
-![E-commerce and Online Shopping Management ER diagram](images/Emereuwa_Jessica_301906616_ERDiagram.png)
+Emereuwa_Jessica_301906616_ERDiagram
+![E-commerce and Online Shopping Management ER diagram](images/.png)
 
 Figure 1. Tables, keys and relationships. PK: primary key; FK: foreign key; UK: unique value.
 
